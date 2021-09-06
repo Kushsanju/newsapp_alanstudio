@@ -1,0 +1,21 @@
+#root,
+html,
+body {
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+  background-color: whitesmoke;
+  background-image: url(https://cdn.pixabay.com/photo/2019/10/21/12/01/newspapers-4565916__340.jpg);
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+* {
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
